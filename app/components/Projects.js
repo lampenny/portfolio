@@ -45,7 +45,7 @@ export default function Projects() {
             </div>
           </div>
           <div className="scale-125 w-1/2 items-center justify-center self-center -z-10">
-            <img src="https://private-user-images.githubusercontent.com/79977073/400193325-f6ecd54c-6033-4e98-85e9-1706675f0844.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk4NTI1MzcsIm5iZiI6MTczOTg1MjIzNywicGF0aCI6Ii83OTk3NzA3My80MDAxOTMzMjUtZjZlY2Q1NGMtNjAzMy00ZTk4LTg1ZTktMTcwNjY3NWYwODQ0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjE4VDA0MTcxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE2MmU0NGVjMzMyNGUwMmYwZDZmOGU1YmU1YWRkYjU0NTIzMDcyZDkyZTM0MDMzOGFhMGQ1YzIxOTQ3NjM4YTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.In8NiWcgPPuksUUJNDbY-bqPxleAWbj7BnGTl9efz1A" />
+            <img src="/pf.png" />
           </div>
         </div>
 
@@ -167,8 +167,6 @@ export default function Projects() {
           <a
             className="flex items-center gap-2 hover:underline hover:underline-offset-4"
             href="https://www.github.com/lampenny"
-            // target="_blank"
-            // rel="noopener noreferrer"
           >
             Check out more projects on my GitHub →
           </a>
