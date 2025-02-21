@@ -1,11 +1,11 @@
-import { techstack } from "../../public/data_techstack";
+import content from "../../public/data";
 
 const TechStack = () => {
   return (
     <div className="flex flex-col justify-evenly max-w-3xl">
       <p className="text-xl pb-2">What I typically use</p>
 
-      {techstack.map((item, i) => {
+      {content.techstack.map((item, i) => {
         return (
           <div key={`item.${i}`}>
             <div className="grid md:grid-cols-10 grid-cols-3 gap-x-5 gap-y-5">
