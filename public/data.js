@@ -176,6 +176,17 @@ const content = {
       image: "/pf.png",
     },
     {
+      title: "Whack-a-mole",
+      stack: "Java",
+      description:
+        "A simple game built with Java. Track your score, aim for a new high score, and hit reset to play again!",
+      hasDemo: false,
+      isFullStack: false,
+      url_code: "https://github.com/lampenny/whack-a-mole",
+      url_code_b: "",
+      image: "/whackamole.gif",
+    },
+    {
       title: "Real Time Weather",
       stack: "React, TypeScript, Tailwind, Jest",
       description:
